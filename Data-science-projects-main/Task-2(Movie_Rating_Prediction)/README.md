@@ -1,0 +1,1 @@
+![Sales Prediction](images/Sales.png)
