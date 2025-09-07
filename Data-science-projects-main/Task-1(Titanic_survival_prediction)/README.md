@@ -1,1 +1,3 @@
-![My Screenshot](images/Screenshot.png)
+# Task 1 - Titanic Survival Prediction
+
+![Titanic Screenshot](images/titanic.png)
